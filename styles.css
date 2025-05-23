@@ -557,6 +557,7 @@ h2 {
 
     .about-description p {
         font-size: 1.1rem;
+        text-align:center;
     }
 
     .contact-form {
