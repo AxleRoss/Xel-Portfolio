@@ -333,7 +333,9 @@ h2 {
         padding: 0 1rem;
         margin-right: 5rem;
     }
-
+.psection{
+    margin-right: 10rem;
+    
     .about-content {
         padding: 1rem;
     }
