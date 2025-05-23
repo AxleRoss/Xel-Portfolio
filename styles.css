@@ -119,9 +119,6 @@ body {
     color: #fff;
     text-align: left;
     flex: 1;
-    font-family: 'Agency FB', sans-serif;  /* Military-style */
-font-family: 'Impact', sans-serif;  /* Classic gaming boldness */
-font-family: 'Black Ops One', cursive;  /* Call of Duty-esque */
 }
 
 .profile-img {
