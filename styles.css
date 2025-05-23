@@ -331,6 +331,7 @@ h2 {
 @media (max-width: 1200px) {
     .container {
         padding: 0 1rem;
+        margin-right: 5rem;
     }
 
     .about-content {
